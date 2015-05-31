@@ -8,6 +8,5 @@ https://github.com/g0v/animal.coa
 
 ```bash
 pip install -r requirements.txt
-python fetch.py
-python data_to_csv.py
+python crawler.py
 ```
