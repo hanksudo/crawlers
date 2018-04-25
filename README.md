@@ -1,6 +1,8 @@
 # animal.coa
 
-(deprecated) move to https://github.com/g0v/animal.coa
+(deprecated)
+
+Moved to https://github.com/g0v/animal.coa
 
 各縣市公立動物收容所資訊統整系統 
 
